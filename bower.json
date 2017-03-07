@@ -1,0 +1,22 @@
+{
+  "name": "TinyCanvas",
+  "authors": [
+    "Javier Reyes Ribes <cobretti124@gmail.com>"
+  ],
+  "description": "A canvas library that gets straight to the point.",
+  "main": "tinyCanvas.ts",
+  "moduleType": [],
+  "keywords": [
+    "canvas",
+    "html5"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
